@@ -1,0 +1,17 @@
+.header img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.header nav{
+    background-color: black;
+    line-height: 50px;
+    font-size: 15px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 60px;
+}
+nav a:hover{
+    color: red;
+}
